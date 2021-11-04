@@ -1,5 +1,7 @@
 <h1 align="center">Joaquín Ayllón García</h1>
 
+<center><img loading="lazy" src="hi-hello.gif" height="300"></center>
+
 Estudiante de DAM en el instituto IES Luis Vives y de Matemáticas en UNED. 
 
 Soy estudiante de conservatorio de contrabajo, y me gusta tocar la guitarra y el bajo en mi tiempo libre, me gusta componer y jugar videojuegos.
