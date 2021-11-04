@@ -1,6 +1,7 @@
 <h1 align="center">Joaquín Ayllón García</h1>
-
-<center><img loading="lazy" src="hi-hello.gif" height="300"></center>
+<p align="center">
+<img loading="lazy" src="hi-hello.gif" height="300">
+</p>
 
 Estudiante de DAM en el instituto IES Luis Vives y de Matemáticas en UNED. 
 
