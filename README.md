@@ -3,7 +3,7 @@
 <img loading="lazy" src="hi-hello.gif" height="300">
 </p>
 
-Estudiante de DAM en el instituto IES Luis Vives y de Matemáticas en UNED. 
+Estudiante de DAM en el instituto IES Luis Vives.
 
 Ningun logro denotado por el momento
 
