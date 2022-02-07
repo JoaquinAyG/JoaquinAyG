@@ -12,6 +12,9 @@ Ningun logro denotado por el momento
 <a href="https://github.com/JoaquinAyG" target="_blank">
 <img loading="lazy" src="GitHub.png" height="60">
 </a>
-<a href="https://www.instagram.com/ayllon__" target="_blank">
-<img loading="lazy" src="Instagram.png" height= "60">
+<a href="mailto:joaquin.ayllongar@gmail.com" target="_blank">
+<img loading="lazy" src="logo-Gmail.png" height= "60">
+</a>
+<a href="mailto:joaquin.ayllon@alumno.iesluisvives.org" target="_blank">
+<img loading="lazy" src="outlook-logo.png" height= "60">
 </a>
