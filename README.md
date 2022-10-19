@@ -3,7 +3,7 @@
 <img loading="lazy" src="hi-hello.gif" height="300">
 </p>
 
-Estudiante de DAM en el instituto IES Luis Vives.
+Estudiante de DAM en el instituto IES Juan de la Cierva.
 
 Ningun logro denotado por el momento
 
