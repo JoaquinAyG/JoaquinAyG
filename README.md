@@ -22,19 +22,14 @@
 <a>
 <img loading="lazy" src="img/Android_logo_2019_(stacked).svg.png" height= "60">
 </a>
-<a>
-<img loading="lazy" src="img/Jetpack_logo.png" height= "60">
+<a><img loading="lazy" src="img/Jetpack_logo.png" height= "60">
 </a>
-<a>
-<img loading="lazy" src="img/kotlin_logo.png" height= "60">
+<a><img loading="lazy" src="img/kotlin_logo.png" height= "60">
 </a>
-<a>
-<img loading="lazy" src="img/PHP-logo.svg.png" height= "60">
+<a><img loading="lazy" src="img/PHP-logo.svg.png" height= "60">
 </a>
-<a>
-<img loading="lazy" src="img/React_(web_framework)-Logo.wine.png" height= "60">
+<a><img loading="lazy" src="img/React_(web_framework)-Logo.wine.png" height= "60">
 </a>
-<a>
-<img loading="lazy" src="img/Java_(programming_language)-Logo.wine.png" height= "60">
+<a><img loading="lazy" src="img/Java_(programming_language)-Logo.wine.png" height= "60">
 </a>
 
