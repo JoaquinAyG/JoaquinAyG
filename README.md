@@ -9,6 +9,10 @@
 
 - Im currently mostly learning android
 
+## Work
+
+- Working for [Optiva Media](https://www.optivamedia.com/)
+
 ### Contact:
 
 <a href="https://github.com/JoaquinAyG" target="_blank">
